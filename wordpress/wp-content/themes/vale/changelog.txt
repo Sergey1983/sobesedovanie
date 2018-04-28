@@ -1,0 +1,21 @@
+Vale Changelog
+
+- Version 1.0.8 - Released: 04.01.2018
+
+-- Fixed : Content alignment > border color.
+
+- Version 1.0.7 - Released: 31.12.2017
+
+-- Fixed : Header widget cart > background color > minimal layout.
+
+- Version 1.0.6 - Released: 26.12.2017
+
+-- Fixed : Default page details layout.
+
+- Version 1.0.5 - Released: 16.12.2017
+
+-- Fixed : Logo image size.
+
+- Version 1.0.4 - Released: 03.12.2017
+
+-- Initial version.
